@@ -1,8 +1,11 @@
 # A repository of lab exercises for Universiti Malaya's Master of Data Science (MDS)
 
 ## Course info
-Code: WQD7003
 Name: Data Analytics
+
+Code: WQD7003
+
+Repo type: Labs
 
 Note: Repo will be updated incrementally from time to time.
 
